@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency 'guard', '~> 2.12'
   gem.add_dependency 'guard-compat', '~> 1.2'
-  gem.add_runtime_dependency 'foodcritic', '~> 6.0'
+  gem.add_runtime_dependency 'foodcritic', '>= 8'
 
   gem.add_development_dependency 'rake', '~> 11.0'
   gem.add_development_dependency 'rspec', '~> 3.4'
