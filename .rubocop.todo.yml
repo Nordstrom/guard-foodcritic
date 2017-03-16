@@ -6,3 +6,6 @@ Style/Documentation:
 
 Metrics/ModuleLength:
   Max: 139
+
+Style/FrozenStringLiteralComment:
+  Enabled: false  
